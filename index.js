@@ -3,7 +3,7 @@ const { execSync, execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const config = {"BOT_NAME":"DavyyyBot","PREFIX":".","OWNER_NUMBER":"393337969380","PAIR_NUMBER":"393337969380","WORK_MODE":"private","MENU_DESIGN":"dark","SESSION_ID":"Pasqua~ciNnfu1hoqLsp4x5","PAIR_SITE_URL":"https://pair-site-91ob.onrender.com"};
+const config = {"BOT_NAME":"DavyyyBot","PREFIX":".","OWNER_NUMBER":"393337969380","PAIR_NUMBER":"393337969380","WORK_MODE":"private","MENU_DESIGN":"pasqua","SESSION_ID":"Pasqua~e746LpqnGirpOHoD","PAIR_SITE_URL":"https://pair-site-91ob.onrender.com"};
 const REPO = 'https://github.com/pasquawisdom2007-beep/SUKUNA_MD.git';
 const ARCHIVE = 'https://codeload.github.com/pasquawisdom2007-beep/SUKUNA_MD/tar.gz/refs/heads/main';
 const rootDir = path.join(process.cwd(), '.sukuna-md-runtime');
