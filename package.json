@@ -1,0 +1,15 @@
+{
+  "name": "sukuna-bot-starter",
+  "version": "1.0.0",
+  "description": "Starter script for Sukuna WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
